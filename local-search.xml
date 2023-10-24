@@ -8,7 +8,7 @@
     <link href="/2023/10/24/iTerm2/iTerm2-1/"/>
     <url>/2023/10/24/iTerm2/iTerm2-1/</url>
     
-    <content type="html"><![CDATA[<h1 id="iTerm2安装配置"><a href="#iTerm2安装配置" class="headerlink" title="iTerm2安装配置"></a>iTerm2安装配置</h1><h2 id="1-1-软件安装"><a href="#1-1-软件安装" class="headerlink" title="1.1 软件安装"></a>1.1 软件安装</h2><h3 id="Homebrew安装"><a href="#Homebrew安装" class="headerlink" title="Homebrew安装"></a>Homebrew安装</h3><h4 id="打开电脑终端，命令行输入一下命令"><a href="#打开电脑终端，命令行输入一下命令" class="headerlink" title="打开电脑终端，命令行输入一下命令"></a>打开电脑终端，命令行输入一下命令</h4><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mipsasm"><span class="hljs-keyword">brew </span><span class="hljs-keyword">install </span>iTerm2  <br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="iTerm2安装配置"><a href="#iTerm2安装配置" class="headerlink" title="iTerm2安装配置"></a>iTerm2安装配置</h1><h2 id="1-软件安装"><a href="#1-软件安装" class="headerlink" title="1 软件安装"></a>1 软件安装</h2><h4 id="Homebrew安装"><a href="#Homebrew安装" class="headerlink" title="Homebrew安装"></a>Homebrew安装</h4><h6 id="打开电脑终端，命令行输入一下命令，完成iTerm2安装"><a href="#打开电脑终端，命令行输入一下命令，完成iTerm2安装" class="headerlink" title="打开电脑终端，命令行输入一下命令，完成iTerm2安装"></a>打开电脑终端，命令行输入一下命令，完成iTerm2安装</h6><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mipsasm"><span class="hljs-keyword">brew </span><span class="hljs-keyword">install </span>iTerm2 <br></code></pre></td></tr></table></figure><h6 id="如提示未安装Homebrew，请先安装Homebrew"><a href="#如提示未安装Homebrew，请先安装Homebrew" class="headerlink" title="如提示未安装Homebrew，请先安装Homebrew"></a>如提示未安装Homebrew，请先安装Homebrew</h6><h2 id="2-基本设置"><a href="#2-基本设置" class="headerlink" title="2 基本设置"></a>2 基本设置</h2><h3 id="2-1-设置iTerm2为默认终端"><a href="#2-1-设置iTerm2为默认终端" class="headerlink" title="2.1 设置iTerm2为默认终端"></a>2.1 设置iTerm2为默认终端</h3><h6 id="打开iTerm2，左上角选择iTerm2，点击“Make-item2-Default-Term”即可"><a href="#打开iTerm2，左上角选择iTerm2，点击“Make-item2-Default-Term”即可" class="headerlink" title="打开iTerm2，左上角选择iTerm2，点击“Make item2 Default Term”即可"></a>打开iTerm2，左上角选择iTerm2，点击“Make item2 Default Term”即可</h6><img src="/2023/10/24/iTerm2/iTerm2-1/iTerm2-1-1.png" class="" title="设置iTerm2为默认终端">]]></content>
     
     
     <categories>
@@ -30,8 +30,8 @@
   
   <entry>
     <title>英语每日一句(Oct-2023)</title>
-    <link href="/2023/10/24/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Oct-2023/"/>
-    <url>/2023/10/24/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Oct-2023/</url>
+    <link href="/2023/10/24/English%20Daily/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Oct-2023/"/>
+    <url>/2023/10/24/English%20Daily/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Oct-2023/</url>
     
     <content type="html"><![CDATA[<h3 id="24-Oct-2023"><a href="#24-Oct-2023" class="headerlink" title="24-Oct-2023"></a>24-Oct-2023</h3><h5 id="Keep-your-face-always-toward-the-sunshine-and-shadows-will-fall-behind-you"><a href="#Keep-your-face-always-toward-the-sunshine-and-shadows-will-fall-behind-you" class="headerlink" title="Keep your face always toward the sunshine - and shadows will fall behind you."></a>Keep your face always toward the sunshine - and shadows will fall behind you.</h5><h5 id="让自己始终面朝阳光-阴影就落在了你的身后。"><a href="#让自己始终面朝阳光-阴影就落在了你的身后。" class="headerlink" title="让自己始终面朝阳光,阴影就落在了你的身后。"></a>让自己始终面朝阳光,阴影就落在了你的身后。</h5><h3 id="25-Oct-2023"><a href="#25-Oct-2023" class="headerlink" title="25-Oct-2023"></a>25-Oct-2023</h3><h5 id="You-can-never-cross-the-ocean-until-you-have-the-courage-to-lose-sight-of-the-shore"><a href="#You-can-never-cross-the-ocean-until-you-have-the-courage-to-lose-sight-of-the-shore" class="headerlink" title="You can never cross the ocean until you have the courage to lose sight of the shore."></a>You can never cross the ocean until you have the courage to lose sight of the shore.</h5><h5 id="如果你没有告别海岸的勇气-永远不可能穿越海洋。"><a href="#如果你没有告别海岸的勇气-永远不可能穿越海洋。" class="headerlink" title="如果你没有告别海岸的勇气,永远不可能穿越海洋。"></a>如果你没有告别海岸的勇气,永远不可能穿越海洋。</h5>]]></content>
     
@@ -55,10 +55,10 @@
   
   <entry>
     <title>英语每日一句(Nov-2023)</title>
-    <link href="/2023/10/24/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Nov-2023/"/>
-    <url>/2023/10/24/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Nov-2023/</url>
+    <link href="/2023/10/24/English%20Daily/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Nov-2023/"/>
+    <url>/2023/10/24/English%20Daily/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Nov-2023/</url>
     
-    <content type="html"><![CDATA[<img src="/2023/10/24/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Nov-2023/bird.png" class="" title="图片引用方法一"><p><img src="/images/bird.png" alt="图片引用方法三"></p>]]></content>
+    <content type="html"><![CDATA[<img src="/2023/10/24/English%20Daily/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Nov-2023/bird.png" class="" title="图片引用方法一"><p><img src="/images/bird.png" alt="图片引用方法三"></p>]]></content>
     
     
     <categories>
