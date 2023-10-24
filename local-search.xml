@@ -8,7 +8,7 @@
     <link href="/2023/10/24/Windows-Knowledge/Windows-Knowledge-1/"/>
     <url>/2023/10/24/Windows-Knowledge/Windows-Knowledge-1/</url>
     
-    <content type="html"><![CDATA[<h1 id="Windows10添加系统启动时自动运行的应用"><a href="#Windows10添加系统启动时自动运行的应用" class="headerlink" title="Windows10添加系统启动时自动运行的应用"></a>Windows10添加系统启动时自动运行的应用</h1><ol><li>按 Windows键 + R，键入“shell:startup”，然后选择“确定”。这将打开“启动”文件夹。</li><li>将该应用的快捷方式从文件位置复制并粘贴到“启动”文件夹中。</li></ol>]]></content>
+    <content type="html"><![CDATA[<h1 id="Windows10添加系统启动时自动运行的应用"><a href="#Windows10添加系统启动时自动运行的应用" class="headerlink" title="Windows10添加系统启动时自动运行的应用"></a>Windows10添加系统启动时自动运行的应用</h1><ol><li>按 Windows键 + R，键入“shell:startup”，然后选择“确定”。这将打开“启动”文件夹。</li><li>将该应用的快捷方式从文件位置复制并粘贴到“启动”文件夹中。</li></ol><img src="/2023/10/24/Windows-Knowledge/Windows-Knowledge-1/Windows-Knowledge-1-1.png" class="">]]></content>
     
     
     <categories>
