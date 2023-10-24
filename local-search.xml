@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>iTerm2安装配置：安装iTerm2</title>
+    <link href="/2023/10/24/iTerm2/iTerm2-1/"/>
+    <url>/2023/10/24/iTerm2/iTerm2-1/</url>
+    
+    <content type="html"><![CDATA[<h1 id="iTerm2安装配置"><a href="#iTerm2安装配置" class="headerlink" title="iTerm2安装配置"></a>iTerm2安装配置</h1><h2 id="1-1-软件安装"><a href="#1-1-软件安装" class="headerlink" title="1.1 软件安装"></a>1.1 软件安装</h2><h3 id="Homebrew安装"><a href="#Homebrew安装" class="headerlink" title="Homebrew安装"></a>Homebrew安装</h3><h4 id="打开电脑终端，命令行输入一下命令"><a href="#打开电脑终端，命令行输入一下命令" class="headerlink" title="打开电脑终端，命令行输入一下命令"></a>打开电脑终端，命令行输入一下命令</h4><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs mipsasm"><span class="hljs-keyword">brew </span><span class="hljs-keyword">install </span>iTerm2  <br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>iTerm2</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>iTerm</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>英语每日一句(Oct-2023)</title>
     <link href="/2023/10/24/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Oct-2023/"/>
     <url>/2023/10/24/%E8%8B%B1%E8%AF%AD%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5-Oct-2023/</url>
